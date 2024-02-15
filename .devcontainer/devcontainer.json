@@ -9,6 +9,6 @@
     }
   },
   "postAttachCommand": [
-    "sdk use java 17.0.10-ms"
+    "source ./.bashrc && sdk use java 17.0.10-ms"
   ]
 }
