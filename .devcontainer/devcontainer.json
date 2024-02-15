@@ -9,6 +9,6 @@
     }
   },
   "postAttachCommand": [
-    "source ./.bashrc && sdk use java 17.0.10-ms"
+    "source /home/codespace/.bashrc && sdk use java 17.0.10-ms"
   ]
 }
