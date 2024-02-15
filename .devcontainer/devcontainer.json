@@ -7,5 +7,8 @@
       "installGradle": true,
       "installMaven": true
     }
-  }
+  },
+  "postAttachCommand": [
+    "sdk use java 17.0.10-ms"
+  ]
 }
